@@ -8,11 +8,9 @@ Our Chrome extension collects the following information with your explicit conse
 
 - Browsing history data, including URLs visited, time spent on each, recent search engine searches, and URLs where browsing stopped. 
 
-- Social media information from Reddit, X (formerly Twitter), and Facebook, including post titles and post details. 
+- Social media information from Reddit and X (formerly Twitter) including post titles and post details. 
 
 - Device and geolocation information. 
-
-- Screenshots of your active tab taken every minute. 
 
 - Click data, including URLs and coordinates. 
 
